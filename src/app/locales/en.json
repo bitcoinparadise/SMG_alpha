@@ -52,7 +52,7 @@
         "my_feed": "My feed",
         "my_replies": "Replies to me",
         "my_wallet": "My wallet",
-        "new": "New",
+        "new": "Smoke",
         "newer": "Newer",
         "next": "Next",
         "no": "No",
@@ -278,8 +278,8 @@
         "jobs": "Jobs at Steemit"
     },
     "main_menu": {
-        "hot": "Hot",
-        "trending": "Trending"
+        "hot": "Scorum",
+        "trending": "Steem"
     },
     "reply_editor": {
         "shorten_title": "Shorten title",
